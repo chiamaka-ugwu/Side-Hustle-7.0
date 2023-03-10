@@ -1,1 +1,1 @@
-# Side-Hustle-7.0
+# sidehustlephpclass
